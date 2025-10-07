@@ -8,6 +8,13 @@
     flex-direction: column;
     height: 100vh;
     }
+    h1{
+        font-size: 3rem;
+        margin-top: 10rem;
+    }
+    a {
+        font-size: 3rem;
+    }
     .video-container {
     max-width: 80%;
     aspect-ratio: 16/9;
