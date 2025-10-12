@@ -9,8 +9,8 @@
     height: 100vh;
     }
     h1{
-        font-size: 3rem;
-        margin-top: 10rem;
+        font-size: 2rem;
+        margin-top: auto;
     }
     a {
         font-size: 3rem;
@@ -31,4 +31,7 @@
     }
     a:hover {
     text-decoration: underline;
+    }
+    .smile {
+        margin-top: 5rem;
     }
